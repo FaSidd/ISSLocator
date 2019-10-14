@@ -1,3 +1,5 @@
+ISSLocator/out/*
+ISSLocator/.idea/*
 # Compiled class file
 *.class
 
